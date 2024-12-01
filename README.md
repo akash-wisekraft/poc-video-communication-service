@@ -6,7 +6,7 @@ WIP : this project is currently at "work in progress" state.
 
 ### PROJECT DOCUMENTATION:
 
-Please refer `docs/README.md` for the details about the project.
+Please refer [DOCS-README](docs/README.md) for the details about the project.
 
 ### PROJECT NATURE:
 

@@ -1,13 +1,13 @@
 # poc-video-communication-service
 
-### Project State:
+### PROJECT STATE:
 
 WIP : this project is currently at "work in progress" state.
 
-### Project Documentation:
+### PROJECT DOCUMENTATION:
 
-Please refer `docs` folder for the details about the project.
+Please refer `docs/README.md` for the details about the project.
 
-### Project Scope:
+### PROJECT NATURE:
 
 This is POC (Proof Of Concept) project for WISEKRAFT

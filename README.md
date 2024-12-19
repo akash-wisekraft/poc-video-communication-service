@@ -10,4 +10,4 @@ Please refer [DOCS-README](docs/README.md) for the details about the project.
 
 ### PROJECT NATURE:
 
-This is POC (Proof Of Concept) project for WISEKRAFT
+This is POC (Proof Of Concept) project for WISEKRAFT, which covers ~ 2% to 5% of Enterprise Product.

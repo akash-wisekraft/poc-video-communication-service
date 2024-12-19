@@ -12,3 +12,4 @@ Currently as part of this project, we will be developing & testing out following
 - chat feature in parallel with audio/video call
 - screen sharing feature
 - It will be a web application ( no mobile apps ) which is accessible through most of the browsers, though testing will be limited to latest version of the chrome/mozila browser (while development).
+- TBD - integrate a AI/ML/DL usecase with the web application

@@ -10,7 +10,7 @@
 
 ### ARCHITECTURE
 
-TBD
+[ARCHITECTURE](architecture)
 
 ### UI WIREFRAMES
 

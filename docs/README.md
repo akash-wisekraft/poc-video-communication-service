@@ -14,7 +14,7 @@ TBD
 
 ### UI WIREFRAMES
 
-[UI-WWIREFRAMES](ui-wireframes)
+[UI-WIREFRAMES](ui-wireframes)
 
 ### REFERENCES (FOR LEARNING):
 
